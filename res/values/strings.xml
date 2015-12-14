@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rocade Bordeaux</string>
+    <string name="home">Recharger</string>
+    <string name="news">Informations</string>
+    <string name="quit">Quitter</string>
+
+</resources>
