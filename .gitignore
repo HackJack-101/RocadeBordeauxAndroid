@@ -82,3 +82,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.classpath
+project.properties
+proguard-project.txt
+.project
+.settings/org.eclipse.jdt.core.prefs
